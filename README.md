@@ -8,8 +8,6 @@
 
 ## Getting Started
 
-Install this starter (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed and updated) by running from your CLI:
-
 ```sh
 npm install --global gatsby-cli #If it is not installed
 git clone https://github.com/GabrielAmazonas/gatsby-material-blog YourProjectName
