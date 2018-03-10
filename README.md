@@ -6,6 +6,17 @@
     <img src="docs/logo.png" alt="Logo" width='200px' height='200px'/>
 </div>
 
+## Getting Started
+
+Install this starter (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed and updated) by running from your CLI:
+
+```sh
+npm install --global gatsby-cli #If it is not installed
+git clone https://github.com/GabrielAmazonas/gatsby-material-blog YourProjectName
+npm install # or yarn install
+npm run develop # or gatsby develop
+```
+
 # Gatsby Material Starter
 
 A blog starter with Material design in mind for [Gatsby](https://github.com/gatsbyjs/gatsby/).
@@ -86,15 +97,6 @@ You can also visit [my personal blog](https://vagr9k.me) if you want to see a fu
 ![Article Screenshot](docs/screenshot-article.png)
 ![Mobile Screenshot](docs/screenshot-mobile.png)
 
-## Getting Started
-
-Install this starter (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed and updated) by running from your CLI:
-
-```sh
-gatsby new YourProjectName https://github.com/Vagr9K/gatsby-material-starter
-npm install # or yarn install
-npm run develop # or gatsby develop
-```
 
 Or you can fork the project, make your changes there and merge new features when needed.
 
