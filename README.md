@@ -5,7 +5,9 @@
 <div align="center">
     <img src="docs/logo.png" alt="Logo" width='200px' height='200px'/>
 </div>
+
 # TL;DR: This is a fork from: https://github.com/Vagr9K/gatsby-material-starter with personalization purposes.
+
 ## Getting Started
 
 ```sh
