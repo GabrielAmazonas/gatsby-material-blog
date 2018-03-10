@@ -13,6 +13,7 @@
 ```sh
 npm install --global gatsby-cli #If it is not installed
 git clone https://github.com/GabrielAmazonas/gatsby-material-blog YourProjectName
+cd YourProjectName
 npm install # or yarn install
 npm run develop # or gatsby develop
 ```
